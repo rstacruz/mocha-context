@@ -1,8 +1,13 @@
 # mocha-context
 Visualizes an errors context.
 
-##### test/mocha.opts
+![](https://raw.githubusercontent.com/rstacruz/mocha-context/gh-pages/screenshot.png)
+
+## Usage
+
+Add this to `test/mocha.opts`:
 
 ```
 --require mocha-context
 ```
+
